@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(223, 20, 20);
+    size: 2px;
+    border-radius: 3%;
+
+}
+img{
+    border-color: white; 
+    background-color: rgb(255, 153, 0);
+}
